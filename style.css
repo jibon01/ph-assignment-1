@@ -1,3 +1,4 @@
+/** Body css ***/
 body{
     margin: 0;
     font-family: 'Be Vietnam Pro', sans-serif;
@@ -7,9 +8,19 @@ body{
     
 
 }
+/*-------flexible container css start-----------*/
+.flexible-container{
+    padding-bottom: 130px;
+}
+/*--------span tag css start-----*/
+span{
+    color: #ffac57;
+}
+/**-----------------------hero section css start********/
 .hero-section{
     display: flex;
 }
+/*-------flexible container css start-----------*/
 .flexible-container{
     padding-bottom: 130px;
 }
@@ -26,9 +37,6 @@ body{
     padding-left: 8px;
     font-family: serif;
 }
-span{
-    color: #ffac57;
-}
 .hero-section-img img{
     width: 70%;
     padding-left: 19%;
@@ -40,6 +48,8 @@ span{
     padding-bottom: 30px;
     padding-top: 25px;
 }
+
+/**------------------link button css *****/
 .link-button{
     text-decoration: none;
     padding: 15px 30px;
@@ -53,7 +63,7 @@ span{
 .Scroll-down{
     padding-top: 30px;
 }
-
+/*****************my skil section css start-------------***/
 .my-skill-title{
     text-align: center;
     font-size: 42px;
@@ -71,12 +81,14 @@ span{
     padding: 15px;
     border-radius: 10px;
     margin-right: 2%;
+    box-shadow: 10px 10px 30px thistle;
 }
 .my-skill-child-div-2{
     background-color: #ffeeee;
     padding: 15px;
     border-radius: 10px;
     width: 50%;
+    box-shadow: 10px 10px 30px thistle;
 }
 .my-skill-child-div-3{
     background-color: #fff4d6;
@@ -84,6 +96,7 @@ span{
     padding: 15px;
     border-radius: 10px;
     width: 50%;
+    box-shadow: 10px 10px 30px thistle;
 
 }
 .my-skill-child-div-1 img{
@@ -98,7 +111,7 @@ span{
     width: 50%;
 
 }
-
+/*******-develop section css start -------*********/
 .develop-section-parents-div{
     display: flex;
     width: 100%;
@@ -106,8 +119,9 @@ span{
 }
 .develop-section-img img{
     width: 60%;
-    margin-left: 12%
-    ;
+    margin-left: 12%;
+    box-shadow: 10px 10px 30px thistle;
+    border-radius: 30px;
    
    
 
@@ -135,6 +149,7 @@ span{
     line-height: 30px;
 }
 
+/******----------Community Section css start********/
 .Comunity-section-parents-div{
     display: flex;
     width: 100%;
@@ -156,6 +171,8 @@ span{
 .Comunity-section-img img{
     width: 65%;
     margin-left: 25%;
+    box-shadow: 10px 10px 30px thistle;
+    border-radius: 30px;
 }
 .Comunity-section-img{
     background-image: url(images/shapes/shape-1.png);
@@ -166,7 +183,7 @@ span{
    
     
 }
-
+/*-----------------------Contact us sectioon css start---------*/
 .contact-us-parents-div{
     display: flex;
 }
@@ -179,20 +196,26 @@ span{
     width: 50%;
     margin-left: 5%;
 }
+iframe{
+    box-shadow: 10px 10px 30px thistle;
+}
 .contact-form{
     width: 50%;
     margin-right: 5%;
     margin-left: 2%;
+    
 }
 input[type=text], select, textarea {
   width: 100%;
   padding: 12px;
+  text-decoration: none;
   border: 1px solid #ccc;
   border-radius: 4px;
   box-sizing: border-box;
   margin-top: 6px;
   margin-bottom: 16px;
   resize: vertical;
+  box-shadow: 10px 10px 20px thistle;
 }
 input[type=submit] {
   background-color: #171a27;
@@ -202,7 +225,7 @@ input[type=submit] {
   border-radius: 4px;
   cursor: pointer;
 }
-
+/*-----------------footer section css start----------------*/
 .footer-section{
     text-align: center;
     background-color: #0b0d17;
