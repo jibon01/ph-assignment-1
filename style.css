@@ -217,7 +217,7 @@ input[type=text], select, textarea {
   resize: vertical;
   box-shadow: 10px 10px 20px thistle;
 }
-input[type=submit] {
+input[type=submit]{
   background-color: #171a27;
   color: white;
   padding: 12px 20px;
