@@ -41,7 +41,7 @@ span{
 
 .hero-section-content p{
     line-height: 30px;
-    padding-bottom: 25px;
+    padding-bottom: 30px;
     padding-top: 25px;
 }
 .link-button{
@@ -130,6 +130,9 @@ span{
     
 
 }
+.develop-section-content .title{
+    line-height: 40px;
+}
 .develop-section-content p{
     padding-bottom: 30px;
     line-height: 30px;
@@ -143,6 +146,9 @@ span{
     width: 100%;
     margin-left: 6%;
  
+}
+.Comunity-section-content .title{
+    line-height: 40px;
 }
 .Comunity-section-content p{
     padding-bottom: 30px;
@@ -168,6 +174,7 @@ span{
     display: flex;
 }
 .contact-us-title{
+    font-size: 45px;
     text-align: center;
     padding-bottom: 30px;
 }
