@@ -1,0 +1,201 @@
+body{
+    margin: 0;
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    
+
+}
+h1{
+    font-size: 42px;
+    line-height: 65px;
+}
+.hero-section{
+    display: flex;
+}
+.flexible-container{
+    padding-bottom: 130px;
+}
+.hero-section-content{
+    width: 100%;
+    padding-left: 7%;
+    padding-top: 100px;
+   
+    
+}
+.hero-section-img img{
+    width: 65%;
+    padding-left: 20%;
+
+}
+span{
+    color: #ffac57;
+}
+.hero-section-content p{
+    line-height: 30px;
+    padding-bottom: 25px;
+}
+.link-button{
+    text-decoration: none;
+    padding: 15px 30px;
+    background-color: #ffac57;
+    border-radius: 5px;
+    font-weight: 700;
+    color: black;
+
+}
+.Scroll-down{
+    padding-top: 30px;
+}
+
+.about-us-title{
+    text-align: center;
+    font-size: 42px;
+    padding-bottom: 30px;
+}
+.about-perent-div{
+    display: flex;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.about-child-div-1{
+    width: 50%;
+    background-color: #f6f5ed;
+    margin-left: 2%;
+    padding: 15px;
+    border-radius: 10px;
+    margin-right: 2%;
+}
+.about-child-div-2{
+    background-color: #ffeeee;
+    padding: 15px;
+    border-radius: 10px;
+    width: 50%;
+}
+.about-child-div-3{
+    background-color: #fff4d6;
+    margin-left: 2%;
+    padding: 15px;
+    border-radius: 10px;
+    width: 50%;
+
+}
+.about-child-div-1 img{
+    width: 50%;
+
+}
+.about-child-div-2 img{
+    width: 50%;
+
+}
+.about-child-div-3 img{
+    width: 50%;
+
+}
+
+.develop-section-parents-div{
+    display: flex;
+    width: 100%;
+   
+}
+.develop-section-img img{
+    width: 60%;
+    margin-left: 12%
+    ;
+   
+   
+
+}
+.develop-section-img{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-position-x: left;
+    background-size: 20%;
+    
+}
+
+.develop-section-content{
+    width: 100%;
+    padding-right: 30px;
+    
+
+}
+.develop-section-content p{
+    padding-bottom: 30px;
+    line-height: 30px;
+}
+
+.Comunity-section-parents-div{
+    display: flex;
+    width: 100%;
+}
+.Comunity-section-content{
+    width: 100%;
+    margin-left: 6%;
+ 
+}
+.Comunity-section-content p{
+    padding-bottom: 30px;
+    line-height: 30px;
+}
+
+
+.Comunity-section-img img{
+    width: 65%;
+    margin-left: 25%;
+}
+.Comunity-section-img{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-position-x: right;
+    background-size: 20%;
+   
+    
+}
+
+.contact-us-parents-div{
+    display: flex;
+}
+.contact-us-title{
+    text-align: center;
+    padding-bottom: 30px;
+}
+.map{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 2%;
+}
+.contact-form{
+    width: 50%;
+    margin-right: 5%;
+    margin-left: 2%;
+}
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #171a27;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.footer-section{
+    text-align: center;
+    background-color: #0b0d17;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    color: white;
+}
