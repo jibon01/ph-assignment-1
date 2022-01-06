@@ -19,10 +19,10 @@ body{
    
     
 }.header-title{
-    font-size: 35px;
+    font-size: 45px;
     font-weight: 700;
     border-left: 5px solid;
-    border-image: linear-gradient(#f6b73c, #4d9f0c);
+    border-image: linear-gradient(orange, tomato);
     border-image-slice: 1;
     padding: 0;
     margin: 0;
