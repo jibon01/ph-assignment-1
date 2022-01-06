@@ -35,6 +35,7 @@ span{
     border-image-slice: 1;
     padding: 0;
     margin: 0;
+    height: auto;
 
 }
 .hero-section-content p{
@@ -169,12 +170,12 @@ span{
     padding-bottom: 30px;
 }
 .map{
-    width: 50%;
+    width: 40%;
     margin-left: 5%;
     margin-right: 2%;
 }
 .contact-form{
-    width: 50%;
+    width: 40%;
     margin-right: 5%;
     margin-left: 2%;
 }
