@@ -57,17 +57,17 @@ span{
     padding-top: 30px;
 }
 
-.about-us-title{
+.my-skill-title{
     text-align: center;
     font-size: 42px;
     padding-bottom: 30px;
 }
-.about-perent-div{
+.my-skill-perent-div{
     display: flex;
     margin-left: 60px;
     margin-right: 60px;
 }
-.about-child-div-1{
+.my-skill-child-div-1{
     width: 50%;
     background-color: #f6f5ed;
     margin-left: 2%;
@@ -75,13 +75,13 @@ span{
     border-radius: 10px;
     margin-right: 2%;
 }
-.about-child-div-2{
+.my-skill-child-div-2{
     background-color: #ffeeee;
     padding: 15px;
     border-radius: 10px;
     width: 50%;
 }
-.about-child-div-3{
+.my-skill-child-div-3{
     background-color: #fff4d6;
     margin-left: 2%;
     padding: 15px;
@@ -89,15 +89,15 @@ span{
     width: 50%;
 
 }
-.about-child-div-1 img{
+.my-skill-child-div-1 img{
     width: 50%;
 
 }
-.about-child-div-2 img{
+.my-skill-child-div-2 img{
     width: 50%;
 
 }
-.about-child-div-3 img{
+.my-skill-child-div-3 img{
     width: 50%;
 
 }
